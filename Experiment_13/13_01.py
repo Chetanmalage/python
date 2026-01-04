@@ -4,15 +4,10 @@
 # To implement a Python program using simple written logic (functions) and scientific
 # libraries to analyze experimental data.
 
-# -----------------------------------------
-# Experimental Data Analysis Program
-# Using NumPy, Pandas, Matplotlib, SciPy
-# -----------------------------------------
-
-import numpy as np # type: ignore
-import pandas as pd # type: ignore
-import matplotlib.pyplot as plt # type: ignore
-from scipy import stats # type: ignore
+import numpy as np 
+import pandas as pd 
+import matplotlib.pyplot as plt 
+from scipy import stats 
 
 # ---------- Written Functions ----------
 def calculate_average(values):
