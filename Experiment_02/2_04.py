@@ -9,6 +9,6 @@ t = 0
 print("Time\tDisplacement")
 
 while t <= 10:
- x = A * math.sin(w * t)
- print(t, "\t", round(x, 3))
- t += 1
+    x = A * math.sin(w * t)
+    print(t, "\t", round(x, 3))
+    t += 1
