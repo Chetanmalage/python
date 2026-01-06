@@ -10,7 +10,7 @@
 
 class Student:
     # Class variable
-    college_name = "ABC Institute of Technology"
+    college_name = "VVP Institute of Technology"
 
     # Constructor
     def __init__(self, name, roll_no, branch, marks):
@@ -42,9 +42,9 @@ class Student:
 
 
 # Creating and Instantiating Objects
-student1 = Student("Archana", 101, "AI & DS", 88)
-student2 = Student("Rahul", 102, "CSE", 74)
-student3 = Student("Sneha", 103, "ECE", 46)
+student1 = Student("Chetan", 101, "AI & DS", 88)
+student2 = Student("Shravani", 102, "CSE", 95)
+student3 = Student("Aishwarya", 103, "ECE", 92)
 
 # Accessing methods using objects
 student1.display_details()
