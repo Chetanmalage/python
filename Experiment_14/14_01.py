@@ -1,5 +1,3 @@
-# Implementing real-time / technical applications using Exception Handling in Python.
-
 # Design and implement a Python program that uses exception handling to manage
 # errors in a real-world application.
 # Your program should demonstrate:
